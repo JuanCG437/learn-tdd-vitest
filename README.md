@@ -35,7 +35,7 @@ Currently, functions are implemented such as:
 
 ```bash
 git clone https://github.com/JuanCG437/learn-tdd-vitest
-cd leanr-tdd-vitest
+cd learn-tdd-vitest
 ```
 
 ### 2. Install dependences 
