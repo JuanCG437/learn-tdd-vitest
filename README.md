@@ -3,7 +3,7 @@ This project contains a collection of exercises and functions developed under th
 
 ---
 
-🧪 What does this project include?
+## 🧪 What does this project include?
 
 Currently, functions are implemented such as:
 
