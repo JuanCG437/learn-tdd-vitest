@@ -2,6 +2,8 @@ import { describe, expect, it } from 'vitest'
 import { canReconfigure } from '../src/can-configure'
 
 describe('CanReconfigure', () => {
+    // This test is redundant and has been
+    // subsequently deactivated
     /* it('should be  a function', () => {
         expect(canConfigure).toBeTypeOf('function')
     }) */

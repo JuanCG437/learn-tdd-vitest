@@ -2,8 +2,8 @@ import { describe, expect, it } from 'vitest';
 import { fizzbuzz } from '../src/fizzbuzz';
 
 describe('fizzbuzz', () => {
-    // Este test es redundante se ha
-    // desactivado posteriormente
+    // This test is redundant and has been
+    // subsequently deactivated
     /* it('should be a function', () => {
         expect(typeof fizzbuzz).toBe('function')
     }) */
