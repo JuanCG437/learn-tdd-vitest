@@ -1,5 +1,5 @@
-# Application of TDD wiht vitest in JavaScript
-This project contains a collection of exercises and functions developed under the **TDD (Test Driven Development)** approach using the **vistest** testing framework in **JavaScript**. The main objective is to practice and reinforce unit testing concepts, validations and best practices in software development.
+# Application of TDD with vitest in JavaScript
+This project contains a collection of exercises and functions developed under the **TDD (Test Driven Development)** approach using the `vistest` testing framework in `JavaScript`. The main objective is to practice and reinforce unit testing concepts, validations and best practices in software development.
 
 ---
 
@@ -53,12 +53,16 @@ npm run test
 ---
 
 ## 📁 Project Structure
-
+````plaintext
+.
 ├── src/                    
 ├── test/                   
 ├── package.json            
 ├── .gitignore              
 └── README.md           
+````
+
+---
 
 ## 🧠 Why use TDD?
 
@@ -67,6 +71,8 @@ npm run test
 - Allows early detection of errors.
 - Encourages a more modular and requirements-driven design.
 
+---
+
 ## 🚀 Tecnologies used
 JavaScript (ES6+)
 
@@ -74,8 +80,10 @@ Vitest - Fast and easy testing framework
 
 Node.js - Runtime environment
 
+---
+
 ## 👨‍💻 Author
 
-Juan Manuel Cortez Gómez
-
-Software Development Technology Student
+> **Juan Manuel Cortez Gómez**
+>
+>  QA Automation Developer in training | Passionate about software quality and test automation.
